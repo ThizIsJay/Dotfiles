@@ -5,7 +5,7 @@ Dit zijn mijn configuratiebestanden voor kleinere projected voor een UNIX/Linux 
 Configuratie voor applicataties die je kunt vinden op MacOS X en Windows vind je in z'n eigen repo.
 
 # Lijst aan Linux Distributies die getest zijn:
- [Debian 11 Stable](https://debian.org)
+1.  [Debian 11 Stable](https://debian.org)
  
  [Arch Linux](https://archlinux.org) 
  
