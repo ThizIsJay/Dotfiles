@@ -1,0 +1,335 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/thisjay/
+	..
+1637095974
+'b
+	/home/thisjay/bin/
+	..
+1637095974
+'h
+	/home/thisjay/
+	..
+1637095974
+'z
+	/home/thisjay/.config/vifm
+	..
+1637095974
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/thisjay
+	..
+0
+d/home
+	thisjay
+1
+d/
+	home
+4
+d/home
+	thisjay
+1
+d/home/thisjay
+	Wallpapers
+10
+d/home/thisjay/Wallpapers
+	..
+0
+d/home/thisjay
+	..
+0
+d/home
+	thisjay
+1
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+3
+d/home/thisjay/.config/bspwm
+	statusbar
+1
+d/home/thisjay/.config/bspwm/statusbar
+	..
+0
+d/home/thisjay/.config/bspwm
+	statusbar
+1
+d/home/thisjay/.config/bspwm/statusbar
+	..
+0
+d/home/thisjay/.config/bspwm
+	..
+0
+d/home/thisjay/.config
+	..
+0
+d/home/thisjay
+	.Trash
+1
+d/
+	home
+4
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+3
+d/home/thisjay/.config/bspwm
+	sxhkdrc
+3
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	X11
+1
+d/home/thisjay/.config/X11
+	..
+0
+d/home/thisjay/.config
+	..
+0
+d/home/thisjay
+	.local
+5
+d/home/thisjay/.local
+	git
+1
+d/home/thisjay/.local/git
+	..
+0
+d/home/thisjay/.local
+	share
+2
+d/home/thisjay/.local/share
+	nvim
+1
+d/home/thisjay/.local/share/nvim
+	swap
+3
+d/home/thisjay/.local/share/nvim/swap
+	..
+0
+d/home/thisjay/.local/share/nvim
+	..
+0
+d/home/thisjay/.local/share
+	xorg
+3
+d/home/thisjay/.local/share/xorg
+	..
+0
+d/home/thisjay/.local/share
+	..
+0
+d/home/thisjay/.local
+	..
+0
+d/home/thisjay
+	.cache
+2
+d/home/thisjay/.cache
+	..
+0
+d/home/thisjay
+	.Trash
+1
+d/home/thisjay/.Trash
+	..
+0
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	vifm
+10
+d/home/thisjay/.config/vifm
+	vifminfo
+4
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	neofetch
+5
+d/home/thisjay/.config/neofetch
+	..
+0
+d/home/thisjay/.config
+	neofetch
+5
+d/home/thisjay/.config/neofetch
+	..
+0
+d/home/thisjay/.config
+	neofetch
+5
+d/home/thisjay/.config/neofetch
+	..
+0
+d/home/thisjay/.config
+	nvim
+6
+d/home/thisjay/.config/nvim
+	..
+0
+d/home/thisjay/.config
+	..
+0
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+3
+d/home/thisjay/.config/bspwm
+	statusbar
+1
+d/home/thisjay/.config/bspwm/statusbar
+	config
+3
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+3
+d/home/thisjay/.config/bspwm
+	bspwmrc
+2
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+3
+d/home/thisjay/.config/bspwm
+	statusbar
+1
+d/home/thisjay/.config/bspwm/statusbar
+	..
+0
+d/home/thisjay/.config/bspwm
+	..
+0
+d/home/thisjay/.config
+	..
+0
+d/home/thisjay
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+11
+d/mnt
+	Ww.kdbx
+15
+d/home/thisjay
+	..
+0
+d/home
+	..
+0
+d/
+	mnt
+11
+d/mnt
+	Sjabloon.dotx
+13
+d/home/thisjay
+	.config
+3
+d/home/thisjay/.config
+	bspwm
+5
+d/home/thisjay/.config/bspwm
+	statusbar
+1
+d/home/thisjay/.config/bspwm/statusbar
+	..
+0
+d/home/thisjay
+	.lesshst
+39
+d
+
+# Right window history (oldest to newest):
+D/home/thisjay
+	..
+0
+D/home/thisjay/.local
+	
+0
+D
+
+# Command line history (oldest to newest):
+:fileview */ tree %c
+:windo normal zo
+:term
+:termianl
+:terminal
+:mv dwm-xinit bspwm-xinit
+:q
+
+# Search history (oldest to newest):
+//home
+/home
+/w
+/.config
+/Re
+/.con
+/.coj
+/mnt
+/.conf
+/bs
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/thisjay/.local/share/vifm/Trash/000_Repositories
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/thisjay/.local/share/vifm/Trash/000_dmenu
+	/home/thisjay/.local/git/dmenu
+t/home/thisjay/.local/share/vifm/Trash/000_%home%thisjay%.config%bspwm%statusbar%config.swp
+	/home/thisjay/.local/share/nvim/swap/%home%thisjay%.config%bspwm%statusbar%config.swp
+t/home/thisjay/.local/share/vifm/Trash/000_dmenu_run
+	/home/thisjay/.cache/dmenu_run
+t/home/thisjay/.local/share/vifm/Trash/000_rofi-3.runcache
+	/home/thisjay/.cache/rofi-3.runcache
+t/home/thisjay/.local/share/vifm/Trash/000_Repositories
+	/home/thisjay/Repositories
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
