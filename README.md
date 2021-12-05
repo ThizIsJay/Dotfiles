@@ -39,4 +39,4 @@ Configuratie voor applicataties die je kunt vinden op MacOS X en Windows vind je
  
 **Link naar de website van de software** 
 1. [Bash](https://gnu.org/software/bash)
-2. [Neovim](neovim.io)
+2. [Neovim](https://neovim.io)
